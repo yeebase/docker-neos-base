@@ -1,3 +1,3 @@
-FROM t3nde/nginx-php-fpm:8.0.5
+FROM t3nde/nginx-php-fpm:8.1
 
 COPY /conf/nginx /etc/nginx
